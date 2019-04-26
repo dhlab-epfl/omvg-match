@@ -20,3 +20,9 @@ The _omvg-match_ comes with the following dependencies :
 To build to tools, adapt the path in the Makefile to point at openMVG sources and build libraries. Then type
 
     make all
+
+## Usage
+
+To use the compiled source, simply type :
+
+    ./omvg-match /match/file/path
